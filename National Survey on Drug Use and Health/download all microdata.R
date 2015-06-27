@@ -6,28 +6,15 @@
 # # # # # # # # # # # # # # # # #
 # # block of code to run this # #
 # # # # # # # # # # # # # # # # #
+
 # library(downloader)
 # setwd( "C:/My Directory/NSDUH/" )
 # # you'll need the `terms` line below.  better read the script carefully. #
 # source_url( "https://raw.github.com/ajdamico/usgsd/master/National%20Survey%20on%20Drug%20Use%20and%20Health/download%20all%20microdata.R" , prompt = FALSE , echo = TRUE )
+
 # # # # # # # # # # # # # # #
 # # end of auto-run block # #
 # # # # # # # # # # # # # # #
-
-# if you have never used the r language before,
-# watch this two minute video i made outlining
-# how to run this script from start to finish
-# http://www.screenr.com/Zpd8
-
-# anthony joseph damico
-# ajdamico@gmail.com
-
-# if you use this script for a project, please send me a note
-# it's always nice to hear about how people are using this stuff
-
-# for further reading on cross-package comparisons, see:
-# http://journal.r-project.org/archive/2009-2/RJournal_2009-2_Damico.pdf
-
 
 ############################################################################################
 # download every file from every year of the National Survey on Drug Use and Health with R #
